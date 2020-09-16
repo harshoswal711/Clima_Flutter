@@ -12,5 +12,5 @@ getting device location and networking to get data from the internet.
 
 live weather data in the current location of the device as well as the weather for any city you can think of!
 
-![Finished App](https://github.com/harshoswal711/Clima_Flutter/images/clima-demo.gif)
+![Finished App](https://github.com/harshoswal711/Clima_Flutter/blob/master/images/clima-demo.gif)
 
